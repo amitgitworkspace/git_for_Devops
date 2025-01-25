@@ -1,0 +1,16 @@
+python Tesing.py
+git init
+ls -a
+clear
+git status
+clear
+git status
+git add Testing.py
+git status
+git commit -m "Added" 
+git status
+rm Testing.py
+git status
+git restore Testing.py
+git status
+history
